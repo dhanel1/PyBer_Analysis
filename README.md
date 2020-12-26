@@ -1,7 +1,9 @@
-# PyBer_Analysis
-Overview
-Vidual representations of data are important for adequate analysis. In this module, We took in Raw Data and tried to create a visual represntation of cab fare prices in rural, suburban, and urban population centers. The prices were then plotted on a line graph to have to have it be visually interpretered. 
-Results
-The results indicated that urban population centers had the most expensive fares, while rual had the least expensive. This data makes sense, as many prices in urban centers are more typically more expensive than rural areas. The time of month did not seem to have a signifcant impact on fares, but there was a noticable spike in late feburary for all population areas. 
-Summary
-This data can offer an advantage to companies that are looking for price models. I would reccomend to favor sending out urban drivers over rural drivers, as their would be a higher ROI. I would also reccomend increasing the price in late feburary. THis is likely because of the colder weather. Finally I would allocate more resources to the urban division from the rural divison.
+                                                                       PyBer_Analysis
+                                                                          Overview
+Vidual representations of data are important for adequate analysis. In this module, We took in Raw Data and tried to create a visual represntation of cab fare prices in rural, suburban, and urban population centers. The prices were then plotted on a line graph to have to have it be visually interpretered. Statistics of data were also taken, and mean fare, riders, and driver count were found.
+                                                                          
+                                                                          Results
+The results indicated that rural centers had the lowest amount of drivers and the highest fares. The city reigons had the highest amount of drivers and the lowest relative fares. Because urban centers had a higher supply of drivers, price was generally lower than rural areas. The time of month did not seem to have a signifcant impact on fares, but there was a noticable spike in late feburary for all population areas.                                                                           
+                                                                         
+                                                                          Summary
+This data can offer an advantage to companies that are looking for price models. I would reccomend to favor sending out rural drivers intead of urban drivers, as their would be a higher ROI. There is most likely a lower supply of rural drivers, which increases the price. I would also reccomend increasing the price in late feburary. THis is likely because of the colder weather. Finally,I would allocate more resources to Port Samanthamouth, and other high preforming cities. An interesting stastic to find wwould be 'fare per mile drove' This would show if the rural areas have that much of a higher ROI.
